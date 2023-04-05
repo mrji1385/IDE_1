@@ -17,7 +17,7 @@ def game_core_v3(number)  -> int:
         int: Число попыток
     """
     count = 0
-    predict = 10 # Изначально предполагаем, что загаданное число 10
+    predict = 10 # Изначально предполагаем, что загаданное число равно 10
     
     while number != predict:
         count += 1
