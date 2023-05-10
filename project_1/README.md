@@ -40,6 +40,7 @@
 
 
 ### Краткая информация о данных
+данных из предоставленного Файл churn.csv с данными для работы находится в папке data, также его можно скачать по ссылке:
 https://lms.skillfactory.ru/assets/courseware/v1/c903ecd0b0c995c44213d620ab6ae94d/asset-v1:SkillFactory+DSPR-2.0+14JULY2021+type@asset+block/churn.zip
   
 :arrow_up:[к оглавлению](.README.md#Оглавление)
