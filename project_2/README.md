@@ -27,7 +27,7 @@
 
 
 ### Краткая информация о данных
-Файл dst-3.0_16_1_hh_database.csv с данными для работы необходимо скачать по ссылке https://drive.google.com/file/d/1Vj1nJWwbE0duMDT9QQDD1urmIuSoPYsG/view?usp=share_link и для корректной работы кода поместить в папку data данного проекта. Файл ExchangeRates.csv с курсами валют находится в папке data. В папке charts находятса графики в формате html.
+Файл dst-3.0_16_1_hh_database.csv с данными для работы необходимо скачать по ссылке https://drive.google.com/file/d/1Vj1nJWwbE0duMDT9QQDD1urmIuSoPYsG/view?usp=share_link. Для корректной работы кода необходимо создать в папке проекта папку data и поместить в нее скачанный файл. Файл ExchangeRates.csv с курсами валют необходимо скачать по ссылке https://lms.skillfactory.ru/assets/courseware/v1/15abf80f45a2f3e93c3274101b451c67/asset-v1:SkillFactory+DSPR-2.0+14JULY2021+type@asset+block/ExchangeRates.zip и также поместить в папку data. В папке charts находятса графики в формате html.
   
 :arrow_up:[к оглавлению](.README.md#Оглавление)
 
