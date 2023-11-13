@@ -11,3 +11,4 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-scienti
 * [Проект 5. Задача предсказания оттока клиентов банка](https://github.com/mrji1385/IDE_1/tree/main/project_5)
 * [Проект 6. Задание 9.5. Модуль ML-6 (HW-03)](https://github.com/mrji1385/IDE_1/tree/main/project_6)
 * [Проект 7. ML-7. Прогнозирование биологического ответа (HW-3)](https://github.com/mrji1385/IDE_1/tree/main/project_7)
+* [Проект 8. Проект: классификация](https://github.com/mrji1385/IDE_1/tree/main/project_8)
