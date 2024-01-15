@@ -14,3 +14,5 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-scienti
 * [Проект 8. Проект: классификация](https://github.com/mrji1385/IDE_1/tree/main/project_8)
 * [Проект 9. Задание 8.1 (HW-03)](https://github.com/mrji1385/IDE_1/tree/main/project_9)
 * [Проект 10. Задание 9.5. Модуль ML-6 (HW-03)](https://github.com/mrji1385/IDE_1/tree/main/project_10)
+* [Проект 11.]()
+* [Проект 12. Задание 6.1. Модуль MATH&ML-7 (HW-02)](https://github.com/mrji1385/IDE_1/tree/main/project_12)
