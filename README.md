@@ -18,3 +18,4 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-scienti
 * [Проект 12. Задание 6.1. Модуль MATH&ML-7 (HW-02)](https://github.com/mrji1385/IDE_1/tree/main/project_12)
 * [Проект 13. PROJECT-6. Сегментирование клиентов онлайн-магазина подарков](https://github.com/mrji1385/IDE_1/tree/main/project_13)
 * [Проект 14. Задание 11.11. Модуль MATH&ML-13 (HW-02)](https://github.com/mrji1385/IDE_1/tree/main/project_14)
+* [Проект 15. DS_PROD-4. A/B-тестирование (HW-03)](https://github.com/mrji1385/IDE_1/tree/main/project_15)
